@@ -25,3 +25,11 @@ Git
 1. План
 2. Инициализация VCS git
 3.
+
+
+
+
+
+/* bugfix
+ https://stackoverflow.com/questions/57944468/webstorm-2018-1-4-eslint-typeerror-this-cliengine-is-not-a-constructor
+ */
